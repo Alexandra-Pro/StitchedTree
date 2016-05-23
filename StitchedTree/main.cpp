@@ -30,7 +30,7 @@ public:
 	int Height(node**);
 };
 
-int proverkaInt(); //
+int proverkaInt(); //проверка на интовое число
 
 void main()
 {
